@@ -1,0 +1,301 @@
+user_id,user_name,preferred_category
+1,Arjun Bose,Sports & Fitness
+2,Nisha Bose,Sports & Fitness
+3,Sara Sharma,Electronics
+4,Rohan Iyer,Sports & Fitness
+5,Rohan Sharma,Electronics
+6,Yash Nair,Home & Kitchen
+7,Sara Nair,Sports & Fitness
+8,Tara Verma,Books
+9,Simran Khan,Home & Kitchen
+10,Riya Kapoor,Books
+11,Aarav Chopra,Sports & Fitness
+12,Diya Gupta,Books
+13,Kabir Bose,Home & Kitchen
+14,Yash Gupta,Beauty
+15,Ananya Kapoor,Home & Kitchen
+16,Tara Patel,Beauty
+17,Kunal Gupta,Books
+18,Meera Chopra,Fashion
+19,Diya Nair,Beauty
+20,Nisha Bose,Beauty
+21,Ishaan Malhotra,Sports & Fitness
+22,Meera Nair,Sports & Fitness
+23,Aarav Patel,Home & Kitchen
+24,Diya Nair,Sports & Fitness
+25,Yash Bose,Home & Kitchen
+26,Priya Reddy,Books
+27,Diya Chopra,Books
+28,Ishaan Bose,Electronics
+29,Meera Chopra,Beauty
+30,Yash Gupta,Electronics
+31,Aditi Bose,Home & Kitchen
+32,Aditi Khan,Fashion
+33,Aarav Sharma,Fashion
+34,Dev Malhotra,Electronics
+35,Priya Nair,Beauty
+36,Simran Khan,Beauty
+37,Nisha Reddy,Books
+38,Aditi Iyer,Beauty
+39,Aarav Verma,Books
+40,Aditi Iyer,Beauty
+41,Tara Reddy,Electronics
+42,Farhan Khan,Electronics
+43,Priya Iyer,Books
+44,Tara Chopra,Sports & Fitness
+45,Sara Reddy,Sports & Fitness
+46,Tara Nair,Sports & Fitness
+47,Priya Iyer,Beauty
+48,Dev Reddy,Home & Kitchen
+49,Aditi Bose,Home & Kitchen
+50,Tara Reddy,Beauty
+51,Aditi Patel,Books
+52,Kabir Kapoor,Home & Kitchen
+53,Aditi Patel,Home & Kitchen
+54,Sara Chopra,Electronics
+55,Vihaan Iyer,Fashion
+56,Nisha Kapoor,Fashion
+57,Diya Verma,Books
+58,Kunal Gupta,Sports & Fitness
+59,Priya Nair,Electronics
+60,Diya Nair,Books
+61,Simran Kapoor,Electronics
+62,Simran Nair,Books
+63,Aarav Gupta,Home & Kitchen
+64,Nisha Nair,Sports & Fitness
+65,Farhan Malhotra,Fashion
+66,Dev Khan,Home & Kitchen
+67,Kunal Reddy,Electronics
+68,Nisha Gupta,Beauty
+69,Nisha Kapoor,Fashion
+70,Priya Iyer,Sports & Fitness
+71,Farhan Sharma,Books
+72,Simran Malhotra,Beauty
+73,Aarav Verma,Beauty
+74,Kunal Iyer,Books
+75,Ishaan Sharma,Home & Kitchen
+76,Nisha Gupta,Fashion
+77,Priya Gupta,Home & Kitchen
+78,Nisha Patel,Books
+79,Rohan Verma,Books
+80,Aarav Kapoor,Sports & Fitness
+81,Riya Gupta,Fashion
+82,Kabir Bose,Electronics
+83,Aarav Khan,Fashion
+84,Aarav Malhotra,Fashion
+85,Aditi Iyer,Books
+86,Ananya Malhotra,Fashion
+87,Priya Kapoor,Home & Kitchen
+88,Arjun Iyer,Sports & Fitness
+89,Yash Kapoor,Beauty
+90,Ananya Iyer,Home & Kitchen
+91,Ananya Malhotra,Electronics
+92,Meera Malhotra,Beauty
+93,Nisha Nair,Beauty
+94,Diya Verma,Sports & Fitness
+95,Aditi Verma,Beauty
+96,Meera Bose,Sports & Fitness
+97,Ananya Malhotra,Electronics
+98,Arjun Chopra,Books
+99,Arjun Verma,Sports & Fitness
+100,Sara Sharma,Books
+101,Dev Verma,Books
+102,Arjun Bose,Books
+103,Vihaan Nair,Fashion
+104,Tara Bose,Home & Kitchen
+105,Yash Chopra,Books
+106,Priya Nair,Beauty
+107,Simran Patel,Home & Kitchen
+108,Aditi Verma,Home & Kitchen
+109,Priya Khan,Books
+110,Simran Malhotra,Beauty
+111,Nisha Gupta,Electronics
+112,Dev Gupta,Fashion
+113,Dev Khan,Home & Kitchen
+114,Rohan Gupta,Home & Kitchen
+115,Yash Kapoor,Home & Kitchen
+116,Farhan Sharma,Sports & Fitness
+117,Diya Verma,Fashion
+118,Kunal Reddy,Sports & Fitness
+119,Aditi Kapoor,Books
+120,Dev Reddy,Electronics
+121,Kabir Patel,Fashion
+122,Nisha Kapoor,Fashion
+123,Meera Bose,Sports & Fitness
+124,Arjun Reddy,Sports & Fitness
+125,Tara Gupta,Books
+126,Farhan Gupta,Home & Kitchen
+127,Priya Patel,Home & Kitchen
+128,Rohan Khan,Electronics
+129,Diya Gupta,Electronics
+130,Farhan Kapoor,Fashion
+131,Diya Khan,Beauty
+132,Dev Patel,Beauty
+133,Simran Chopra,Sports & Fitness
+134,Meera Verma,Fashion
+135,Meera Khan,Home & Kitchen
+136,Ishaan Patel,Electronics
+137,Farhan Iyer,Home & Kitchen
+138,Riya Sharma,Sports & Fitness
+139,Meera Kapoor,Fashion
+140,Dev Verma,Electronics
+141,Simran Patel,Books
+142,Dev Reddy,Home & Kitchen
+143,Ishaan Sharma,Home & Kitchen
+144,Dev Verma,Electronics
+145,Nisha Reddy,Electronics
+146,Simran Bose,Beauty
+147,Riya Iyer,Fashion
+148,Simran Patel,Electronics
+149,Aditi Verma,Sports & Fitness
+150,Kunal Malhotra,Sports & Fitness
+151,Yash Khan,Sports & Fitness
+152,Nisha Reddy,Books
+153,Meera Malhotra,Books
+154,Meera Malhotra,Sports & Fitness
+155,Riya Malhotra,Beauty
+156,Ananya Khan,Beauty
+157,Diya Patel,Beauty
+158,Kabir Iyer,Fashion
+159,Ishaan Chopra,Electronics
+160,Ishaan Sharma,Books
+161,Priya Kapoor,Sports & Fitness
+162,Dev Patel,Electronics
+163,Aditi Patel,Beauty
+164,Meera Kapoor,Books
+165,Kabir Bose,Fashion
+166,Rohan Bose,Sports & Fitness
+167,Diya Nair,Electronics
+168,Farhan Khan,Beauty
+169,Vihaan Patel,Fashion
+170,Kabir Sharma,Fashion
+171,Meera Malhotra,Beauty
+172,Simran Patel,Books
+173,Ananya Reddy,Beauty
+174,Meera Kapoor,Books
+175,Rohan Chopra,Sports & Fitness
+176,Dev Reddy,Electronics
+177,Yash Sharma,Books
+178,Sara Malhotra,Home & Kitchen
+179,Aarav Verma,Fashion
+180,Simran Malhotra,Electronics
+181,Rohan Malhotra,Electronics
+182,Ishaan Reddy,Sports & Fitness
+183,Priya Patel,Fashion
+184,Simran Nair,Beauty
+185,Dev Verma,Books
+186,Arjun Nair,Home & Kitchen
+187,Sara Bose,Electronics
+188,Ishaan Gupta,Books
+189,Dev Patel,Beauty
+190,Nisha Chopra,Electronics
+191,Priya Verma,Home & Kitchen
+192,Rohan Gupta,Electronics
+193,Nisha Chopra,Electronics
+194,Farhan Reddy,Books
+195,Riya Khan,Sports & Fitness
+196,Arjun Malhotra,Books
+197,Priya Sharma,Fashion
+198,Rohan Chopra,Fashion
+199,Meera Reddy,Beauty
+200,Dev Verma,Electronics
+201,Yash Khan,Beauty
+202,Ishaan Patel,Sports & Fitness
+203,Aarav Chopra,Books
+204,Kabir Khan,Electronics
+205,Priya Verma,Beauty
+206,Vihaan Reddy,Beauty
+207,Meera Chopra,Beauty
+208,Rohan Nair,Books
+209,Dev Khan,Books
+210,Farhan Iyer,Books
+211,Diya Malhotra,Sports & Fitness
+212,Vihaan Verma,Home & Kitchen
+213,Kunal Gupta,Sports & Fitness
+214,Rohan Sharma,Home & Kitchen
+215,Meera Malhotra,Sports & Fitness
+216,Dev Iyer,Books
+217,Farhan Reddy,Home & Kitchen
+218,Sara Chopra,Sports & Fitness
+219,Nisha Reddy,Home & Kitchen
+220,Diya Kapoor,Fashion
+221,Simran Nair,Fashion
+222,Kunal Sharma,Home & Kitchen
+223,Dev Kapoor,Books
+224,Nisha Bose,Beauty
+225,Vihaan Reddy,Electronics
+226,Vihaan Chopra,Sports & Fitness
+227,Sara Verma,Books
+228,Ananya Chopra,Books
+229,Aarav Kapoor,Fashion
+230,Kunal Bose,Fashion
+231,Kabir Reddy,Home & Kitchen
+232,Sara Malhotra,Beauty
+233,Nisha Bose,Electronics
+234,Sara Bose,Sports & Fitness
+235,Nisha Gupta,Beauty
+236,Dev Chopra,Electronics
+237,Yash Verma,Fashion
+238,Meera Khan,Beauty
+239,Kabir Nair,Electronics
+240,Ananya Reddy,Fashion
+241,Meera Sharma,Electronics
+242,Sara Sharma,Home & Kitchen
+243,Arjun Gupta,Books
+244,Vihaan Khan,Sports & Fitness
+245,Kunal Malhotra,Beauty
+246,Ishaan Iyer,Fashion
+247,Kabir Malhotra,Books
+248,Yash Bose,Fashion
+249,Dev Malhotra,Fashion
+250,Aditi Reddy,Beauty
+251,Rohan Reddy,Home & Kitchen
+252,Aarav Reddy,Home & Kitchen
+253,Farhan Iyer,Electronics
+254,Priya Gupta,Sports & Fitness
+255,Meera Bose,Books
+256,Rohan Reddy,Home & Kitchen
+257,Diya Nair,Books
+258,Ananya Khan,Books
+259,Simran Gupta,Sports & Fitness
+260,Meera Kapoor,Home & Kitchen
+261,Aarav Bose,Books
+262,Rohan Sharma,Sports & Fitness
+263,Riya Malhotra,Beauty
+264,Dev Patel,Fashion
+265,Yash Gupta,Fashion
+266,Diya Malhotra,Home & Kitchen
+267,Vihaan Bose,Electronics
+268,Riya Patel,Books
+269,Riya Malhotra,Home & Kitchen
+270,Vihaan Verma,Home & Kitchen
+271,Sara Kapoor,Books
+272,Ishaan Khan,Fashion
+273,Farhan Gupta,Sports & Fitness
+274,Tara Patel,Fashion
+275,Rohan Reddy,Home & Kitchen
+276,Sara Verma,Books
+277,Kabir Iyer,Fashion
+278,Nisha Chopra,Home & Kitchen
+279,Kabir Nair,Electronics
+280,Rohan Chopra,Electronics
+281,Priya Gupta,Beauty
+282,Rohan Malhotra,Books
+283,Arjun Verma,Beauty
+284,Aditi Reddy,Electronics
+285,Yash Chopra,Home & Kitchen
+286,Yash Khan,Beauty
+287,Kabir Bose,Books
+288,Meera Bose,Books
+289,Ananya Iyer,Electronics
+290,Riya Patel,Books
+291,Ananya Verma,Fashion
+292,Farhan Iyer,Books
+293,Priya Gupta,Beauty
+294,Farhan Nair,Sports & Fitness
+295,Vihaan Nair,Beauty
+296,Ananya Reddy,Sports & Fitness
+297,Kunal Patel,Electronics
+298,Arjun Khan,Books
+299,Priya Khan,Home & Kitchen
+300,Ananya Bose,Home & Kitchen

@@ -1,0 +1,151 @@
+product_id,product_name,category,brand,description,price
+1,Nova Portable Bluetooth Speaker,Electronics,Nova,A Portable Bluetooth Speaker designed for everyday use with excellent build quality.,18891.29
+2,Crest Ergonomic Handbag,Fashion,Crest,Top-rated Handbag offering Ergonomic performance and long-lasting durability.,757.91
+3,Zenith Premium Shampoo,Beauty,Zenith,"This Premium Shampoo from Zenith combines style, comfort, and performance.",1544.94
+4,Solace High-Performance Table Lamp,Home & Kitchen,Solace,"Experience the best Table Lamp in the Home & Kitchen category, built to be High-Performance.",5890.21
+5,Urban Lightweight Skipping Rope,Sports & Fitness,Urban,A Lightweight Skipping Rope designed for everyday use with excellent build quality.,657.8
+6,Nova Portable Tablet,Electronics,Nova,A Portable Tablet designed for everyday use with excellent build quality.,12637.46
+7,Solace Lightweight Monitor,Electronics,Solace,A Lightweight Monitor designed for everyday use with excellent build quality.,28452.06
+8,Nimbus Premium Blender,Home & Kitchen,Nimbus,A Premium Blender designed for everyday use with excellent build quality.,1858.62
+9,Solace Modern Programming Guide,Books,Solace,Top-rated Programming Guide offering Modern performance and long-lasting durability.,998.53
+10,Vertex Classic Business Book,Books,Vertex,A Classic Business Book designed for everyday use with excellent build quality.,1087.19
+11,Solace Smart Sci-Fi Novel,Books,Solace,Top-rated Sci-Fi Novel offering Smart performance and long-lasting durability.,739.34
+12,Orbit Premium Lipstick,Beauty,Orbit,"This Premium Lipstick from Orbit combines style, comfort, and performance.",2225.42
+13,Aria Budget-Friendly Vacuum Cleaner,Home & Kitchen,Aria,"This Budget-Friendly Vacuum Cleaner from Aria combines style, comfort, and performance.",14813.79
+14,Falcon Modern Badminton Racket,Sports & Fitness,Falcon,"Upgrade your lifestyle with this Modern Badminton Racket, a favorite in Sports & Fitness.",5123.31
+15,Orbit Lightweight Sunglasses,Fashion,Orbit,"Upgrade your lifestyle with this Lightweight Sunglasses, a favorite in Fashion.",5468.92
+16,Aria Budget-Friendly Tablet,Electronics,Aria,"This Budget-Friendly Tablet from Aria combines style, comfort, and performance.",19646.05
+17,Solace Ergonomic Backpack,Fashion,Solace,Top-rated Backpack offering Ergonomic performance and long-lasting durability.,6313.5
+18,Lumen Budget-Friendly Dumbbell Set,Sports & Fitness,Lumen,"Experience the best Dumbbell Set in the Sports & Fitness category, built to be Budget-Friendly.",4442.95
+19,Crest Portable Self-Help Book,Books,Crest,Top-rated Self-Help Book offering Portable performance and long-lasting durability.,698.87
+20,Lumen Classic Formal Shirt,Fashion,Lumen,"This Classic Formal Shirt from Lumen combines style, comfort, and performance.",1163.69
+21,Kairo High-Performance Self-Help Book,Books,Kairo,A High-Performance Self-Help Book designed for everyday use with excellent build quality.,598.92
+22,Zenith Professional Yoga Mat,Sports & Fitness,Zenith,Top-rated Yoga Mat offering Professional performance and long-lasting durability.,8132.17
+23,Zenith Ergonomic Badminton Racket,Sports & Fitness,Zenith,"Upgrade your lifestyle with this Ergonomic Badminton Racket, a favorite in Sports & Fitness.",3218.52
+24,Vertex Ergonomic Running Shoes,Fashion,Vertex,A Ergonomic Running Shoes designed for everyday use with excellent build quality.,5056.59
+25,Crest Eco-Friendly Smartwatch,Electronics,Crest,Top-rated Smartwatch offering Eco-Friendly performance and long-lasting durability.,43068.21
+26,Everest Wireless Nail Polish Set,Beauty,Everest,A Wireless Nail Polish Set designed for everyday use with excellent build quality.,1609.47
+27,Vertex High-Performance Air Fryer,Home & Kitchen,Vertex,"This High-Performance Air Fryer from Vertex combines style, comfort, and performance.",6319.22
+28,Vertex Smart Bluetooth Speaker,Electronics,Vertex,"Upgrade your lifestyle with this Smart Bluetooth Speaker, a favorite in Electronics.",27052.81
+29,Falcon Eco-Friendly Gym Bag,Sports & Fitness,Falcon,"This Eco-Friendly Gym Bag from Falcon combines style, comfort, and performance.",799.34
+30,Crest Budget-Friendly Nail Polish Set,Beauty,Crest,A Budget-Friendly Nail Polish Set designed for everyday use with excellent build quality.,795.51
+31,Urban Portable Fantasy Novel,Books,Urban,Top-rated Fantasy Novel offering Portable performance and long-lasting durability.,230.83
+32,Kairo Premium Formal Shirt,Fashion,Kairo,A Premium Formal Shirt designed for everyday use with excellent build quality.,7414.06
+33,Everest Wireless Resistance Bands,Sports & Fitness,Everest,Top-rated Resistance Bands offering Wireless performance and long-lasting durability.,9635.74
+34,Crest Compact Cricket Bat,Sports & Fitness,Crest,"Upgrade your lifestyle with this Compact Cricket Bat, a favorite in Sports & Fitness.",8234.74
+35,Orbit Modern Blender,Home & Kitchen,Orbit,"Upgrade your lifestyle with this Modern Blender, a favorite in Home & Kitchen.",2801.12
+36,Pulse Ergonomic Router,Electronics,Pulse,"This Ergonomic Router from Pulse combines style, comfort, and performance.",4694.12
+37,Pulse Premium Business Book,Books,Pulse,"Upgrade your lifestyle with this Premium Business Book, a favorite in Books.",345.9
+38,Aria Modern Coffee Maker,Home & Kitchen,Aria,"Experience the best Coffee Maker in the Home & Kitchen category, built to be Modern.",8506.28
+39,Zenith Professional Blender,Home & Kitchen,Zenith,"This Professional Blender from Zenith combines style, comfort, and performance.",12191.2
+40,Falcon Ergonomic Running Shoes,Fashion,Falcon,"Experience the best Running Shoes in the Fashion category, built to be Ergonomic.",1778.93
+41,Vertex Portable Camera,Electronics,Vertex,"This Portable Camera from Vertex combines style, comfort, and performance.",50281.67
+42,Pulse Ergonomic Sneakers,Fashion,Pulse,Top-rated Sneakers offering Ergonomic performance and long-lasting durability.,4213.83
+43,Nova Professional Dumbbell Set,Sports & Fitness,Nova,A Professional Dumbbell Set designed for everyday use with excellent build quality.,2510.97
+44,Solace Budget-Friendly Cookbook,Books,Solace,A Budget-Friendly Cookbook designed for everyday use with excellent build quality.,183.0
+45,Crest Wireless Lipstick,Beauty,Crest,A Wireless Lipstick designed for everyday use with excellent build quality.,1952.07
+46,Pulse Lightweight Treadmill,Sports & Fitness,Pulse,Top-rated Treadmill offering Lightweight performance and long-lasting durability.,1462.69
+47,Lumen Smart Mystery Novel,Books,Lumen,"Experience the best Mystery Novel in the Books category, built to be Smart.",275.57
+48,Solace Durable T-Shirt,Fashion,Solace,Top-rated T-Shirt offering Durable performance and long-lasting durability.,5631.75
+49,Crest Premium Face Wash,Beauty,Crest,"Experience the best Face Wash in the Beauty category, built to be Premium.",1834.04
+50,Lumen High-Performance Poetry Collection,Books,Lumen,Top-rated Poetry Collection offering High-Performance performance and long-lasting durability.,1065.03
+51,Solace Ergonomic Nail Polish Set,Beauty,Solace,"Experience the best Nail Polish Set in the Beauty category, built to be Ergonomic.",197.28
+52,Orbit High-Performance Perfume,Beauty,Orbit,Top-rated Perfume offering High-Performance performance and long-lasting durability.,2065.59
+53,Pulse Wireless Smartphone,Electronics,Pulse,A Wireless Smartphone designed for everyday use with excellent build quality.,44455.65
+54,Aria Lightweight Beard Trimmer,Beauty,Aria,"Experience the best Beard Trimmer in the Beauty category, built to be Lightweight.",2119.17
+55,Crest Professional Sunglasses,Fashion,Crest,Top-rated Sunglasses offering Professional performance and long-lasting durability.,2837.83
+56,Falcon Eco-Friendly Dinner Set,Home & Kitchen,Falcon,A Eco-Friendly Dinner Set designed for everyday use with excellent build quality.,5417.6
+57,Lumen Portable Face Moisturizer,Beauty,Lumen,"This Portable Face Moisturizer from Lumen combines style, comfort, and performance.",562.95
+58,Nova Eco-Friendly Microwave Oven,Home & Kitchen,Nova,"Experience the best Microwave Oven in the Home & Kitchen category, built to be Eco-Friendly.",5498.75
+59,Urban Lightweight Gym Bag,Sports & Fitness,Urban,"This Lightweight Gym Bag from Urban combines style, comfort, and performance.",5175.99
+60,Crest Lightweight Monitor,Electronics,Crest,Top-rated Monitor offering Lightweight performance and long-lasting durability.,13581.08
+61,Urban High-Performance Shampoo,Beauty,Urban,Top-rated Shampoo offering High-Performance performance and long-lasting durability.,839.86
+62,Lumen Ergonomic Self-Help Book,Books,Lumen,A Ergonomic Self-Help Book designed for everyday use with excellent build quality.,176.69
+63,Zenith Wireless Programming Guide,Books,Zenith,Top-rated Programming Guide offering Wireless performance and long-lasting durability.,319.28
+64,Orbit Budget-Friendly Bedsheet,Home & Kitchen,Orbit,"Upgrade your lifestyle with this Budget-Friendly Bedsheet, a favorite in Home & Kitchen.",11752.04
+65,Kairo Modern T-Shirt,Fashion,Kairo,A Modern T-Shirt designed for everyday use with excellent build quality.,2784.6
+66,Lumen Compact Sunscreen,Beauty,Lumen,"This Compact Sunscreen from Lumen combines style, comfort, and performance.",407.33
+67,Pulse High-Performance Gaming Console,Electronics,Pulse,A High-Performance Gaming Console designed for everyday use with excellent build quality.,18944.39
+68,Nimbus Eco-Friendly Biography,Books,Nimbus,A Eco-Friendly Biography designed for everyday use with excellent build quality.,1102.94
+69,Orbit Wireless Bedsheet,Home & Kitchen,Orbit,"This Wireless Bedsheet from Orbit combines style, comfort, and performance.",11151.9
+70,Nova High-Performance Skipping Rope,Sports & Fitness,Nova,"Upgrade your lifestyle with this High-Performance Skipping Rope, a favorite in Sports & Fitness.",6212.77
+71,Solace Modern Smartwatch,Electronics,Solace,"Experience the best Smartwatch in the Electronics category, built to be Modern.",58254.77
+72,Pulse Eco-Friendly Headphones,Electronics,Pulse,"Upgrade your lifestyle with this Eco-Friendly Headphones, a favorite in Electronics.",5368.85
+73,Lumen Budget-Friendly Router,Electronics,Lumen,"This Budget-Friendly Router from Lumen combines style, comfort, and performance.",31825.6
+74,Zenith Portable Programming Guide,Books,Zenith,"This Portable Programming Guide from Zenith combines style, comfort, and performance.",1126.18
+75,Nova Professional Laptop,Electronics,Nova,Top-rated Laptop offering Professional performance and long-lasting durability.,11049.08
+76,Orbit High-Performance Running Shoes,Fashion,Orbit,"Experience the best Running Shoes in the Fashion category, built to be High-Performance.",987.89
+77,Pulse Eco-Friendly Cookbook,Books,Pulse,"Experience the best Cookbook in the Books category, built to be Eco-Friendly.",818.23
+78,Zenith Professional Cricket Bat,Sports & Fitness,Zenith,A Professional Cricket Bat designed for everyday use with excellent build quality.,367.44
+79,Lumen Portable Sci-Fi Novel,Books,Lumen,"This Portable Sci-Fi Novel from Lumen combines style, comfort, and performance.",668.49
+80,Falcon Lightweight Smartwatch,Electronics,Falcon,A Lightweight Smartwatch designed for everyday use with excellent build quality.,3193.9
+81,Everest Portable Poetry Collection,Books,Everest,"Upgrade your lifestyle with this Portable Poetry Collection, a favorite in Books.",815.07
+82,Urban Ergonomic Treadmill,Sports & Fitness,Urban,"This Ergonomic Treadmill from Urban combines style, comfort, and performance.",3574.87
+83,Lumen Compact Smartphone,Electronics,Lumen,A Compact Smartphone designed for everyday use with excellent build quality.,23723.33
+84,Falcon Compact Cycling Helmet,Sports & Fitness,Falcon,A Compact Cycling Helmet designed for everyday use with excellent build quality.,5332.27
+85,Pulse Premium Vacuum Cleaner,Home & Kitchen,Pulse,"Experience the best Vacuum Cleaner in the Home & Kitchen category, built to be Premium.",11765.88
+86,Falcon Eco-Friendly Coffee Maker,Home & Kitchen,Falcon,"Experience the best Coffee Maker in the Home & Kitchen category, built to be Eco-Friendly.",4789.27
+87,Pulse High-Performance Handbag,Fashion,Pulse,"Upgrade your lifestyle with this High-Performance Handbag, a favorite in Fashion.",2440.85
+88,Nova Budget-Friendly Dumbbell Set,Sports & Fitness,Nova,"Experience the best Dumbbell Set in the Sports & Fitness category, built to be Budget-Friendly.",1367.5
+89,Urban Durable Router,Electronics,Urban,"This Durable Router from Urban combines style, comfort, and performance.",36360.04
+90,Falcon High-Performance Sneakers,Fashion,Falcon,"This High-Performance Sneakers from Falcon combines style, comfort, and performance.",1415.29
+91,Everest Wireless Resistance Bands,Sports & Fitness,Everest,"This Wireless Resistance Bands from Everest combines style, comfort, and performance.",3827.21
+92,Nova Eco-Friendly Resistance Bands,Sports & Fitness,Nova,"This Eco-Friendly Resistance Bands from Nova combines style, comfort, and performance.",9726.29
+93,Kairo Eco-Friendly Monitor,Electronics,Kairo,A Eco-Friendly Monitor designed for everyday use with excellent build quality.,47540.21
+94,Zenith Ergonomic Gaming Console,Electronics,Zenith,"Experience the best Gaming Console in the Electronics category, built to be Ergonomic.",23248.99
+95,Everest Ergonomic Skipping Rope,Sports & Fitness,Everest,A Ergonomic Skipping Rope designed for everyday use with excellent build quality.,3062.95
+96,Nimbus Classic Microwave Oven,Home & Kitchen,Nimbus,Top-rated Microwave Oven offering Classic performance and long-lasting durability.,9650.83
+97,Vertex Lightweight Table Lamp,Home & Kitchen,Vertex,Top-rated Table Lamp offering Lightweight performance and long-lasting durability.,2445.34
+98,Falcon Classic Dinner Set,Home & Kitchen,Falcon,"Experience the best Dinner Set in the Home & Kitchen category, built to be Classic.",5215.95
+99,Everest Compact Sneakers,Fashion,Everest,"Experience the best Sneakers in the Fashion category, built to be Compact.",3801.14
+100,Solace Budget-Friendly Fantasy Novel,Books,Solace,"Experience the best Fantasy Novel in the Books category, built to be Budget-Friendly.",390.24
+101,Nova High-Performance Dinner Set,Home & Kitchen,Nova,A High-Performance Dinner Set designed for everyday use with excellent build quality.,11160.41
+102,Pulse Professional Cricket Bat,Sports & Fitness,Pulse,"Upgrade your lifestyle with this Professional Cricket Bat, a favorite in Sports & Fitness.",8649.09
+103,Pulse Budget-Friendly Beard Trimmer,Beauty,Pulse,Top-rated Beard Trimmer offering Budget-Friendly performance and long-lasting durability.,646.94
+104,Falcon High-Performance Hair Dryer,Beauty,Falcon,"Experience the best Hair Dryer in the Beauty category, built to be High-Performance.",1064.22
+105,Aria Eco-Friendly Sunglasses,Fashion,Aria,"Experience the best Sunglasses in the Fashion category, built to be Eco-Friendly.",4400.51
+106,Pulse Compact Sci-Fi Novel,Books,Pulse,A Compact Sci-Fi Novel designed for everyday use with excellent build quality.,959.52
+107,Orbit Eco-Friendly Cycling Helmet,Sports & Fitness,Orbit,"Upgrade your lifestyle with this Eco-Friendly Cycling Helmet, a favorite in Sports & Fitness.",7119.28
+108,Solace Modern Face Wash,Beauty,Solace,"Experience the best Face Wash in the Beauty category, built to be Modern.",266.21
+109,Orbit Modern Air Fryer,Home & Kitchen,Orbit,"Experience the best Air Fryer in the Home & Kitchen category, built to be Modern.",4653.16
+110,Solace Classic Cookware Set,Home & Kitchen,Solace,"Experience the best Cookware Set in the Home & Kitchen category, built to be Classic.",12379.55
+111,Urban Smart Denim Jacket,Fashion,Urban,Top-rated Denim Jacket offering Smart performance and long-lasting durability.,7616.64
+112,Urban Lightweight Handbag,Fashion,Urban,"Experience the best Handbag in the Fashion category, built to be Lightweight.",7319.9
+113,Zenith Smart Cycling Helmet,Sports & Fitness,Zenith,"Upgrade your lifestyle with this Smart Cycling Helmet, a favorite in Sports & Fitness.",3435.07
+114,Kairo Classic Badminton Racket,Sports & Fitness,Kairo,"This Classic Badminton Racket from Kairo combines style, comfort, and performance.",2742.29
+115,Orbit Compact Air Fryer,Home & Kitchen,Orbit,"This Compact Air Fryer from Orbit combines style, comfort, and performance.",12568.07
+116,Crest Durable Body Lotion,Beauty,Crest,"This Durable Body Lotion from Crest combines style, comfort, and performance.",2819.68
+117,Vertex Durable Business Book,Books,Vertex,A Durable Business Book designed for everyday use with excellent build quality.,716.31
+118,Urban Premium Yoga Mat,Sports & Fitness,Urban,"Upgrade your lifestyle with this Premium Yoga Mat, a favorite in Sports & Fitness.",3384.63
+119,Nimbus Modern History Book,Books,Nimbus,"Upgrade your lifestyle with this Modern History Book, a favorite in Books.",411.76
+120,Crest Professional Backpack,Fashion,Crest,Top-rated Backpack offering Professional performance and long-lasting durability.,7211.21
+121,Zenith Premium Laptop,Electronics,Zenith,A Premium Laptop designed for everyday use with excellent build quality.,11047.68
+122,Everest Durable Sunscreen,Beauty,Everest,A Durable Sunscreen designed for everyday use with excellent build quality.,1955.56
+123,Lumen High-Performance Laptop,Electronics,Lumen,"Upgrade your lifestyle with this High-Performance Laptop, a favorite in Electronics.",36722.19
+124,Pulse Budget-Friendly Hair Dryer,Beauty,Pulse,"Experience the best Hair Dryer in the Beauty category, built to be Budget-Friendly.",681.58
+125,Solace Premium Wrist Watch,Fashion,Solace,A Premium Wrist Watch designed for everyday use with excellent build quality.,1886.41
+126,Pulse Ergonomic Denim Jacket,Fashion,Pulse,"This Ergonomic Denim Jacket from Pulse combines style, comfort, and performance.",6562.98
+127,Lumen Ergonomic Table Lamp,Home & Kitchen,Lumen,"This Ergonomic Table Lamp from Lumen combines style, comfort, and performance.",13056.07
+128,Crest Eco-Friendly Bedsheet,Home & Kitchen,Crest,"Upgrade your lifestyle with this Eco-Friendly Bedsheet, a favorite in Home & Kitchen.",1851.43
+129,Everest Ergonomic Denim Jacket,Fashion,Everest,"Upgrade your lifestyle with this Ergonomic Denim Jacket, a favorite in Fashion.",7742.24
+130,Falcon Premium Headphones,Electronics,Falcon,"Upgrade your lifestyle with this Premium Headphones, a favorite in Electronics.",52238.22
+131,Nimbus Eco-Friendly Fantasy Novel,Books,Nimbus,Top-rated Fantasy Novel offering Eco-Friendly performance and long-lasting durability.,454.24
+132,Orbit Wireless Mystery Novel,Books,Orbit,"Upgrade your lifestyle with this Wireless Mystery Novel, a favorite in Books.",898.91
+133,Nova Durable Microwave Oven,Home & Kitchen,Nova,A Durable Microwave Oven designed for everyday use with excellent build quality.,1702.53
+134,Nova High-Performance Perfume,Beauty,Nova,"Experience the best Perfume in the Beauty category, built to be High-Performance.",827.27
+135,Aria Eco-Friendly Sunscreen,Beauty,Aria,"Experience the best Sunscreen in the Beauty category, built to be Eco-Friendly.",1676.96
+136,Orbit Eco-Friendly Water Purifier,Home & Kitchen,Orbit,"This Eco-Friendly Water Purifier from Orbit combines style, comfort, and performance.",7505.45
+137,Pulse High-Performance Headphones,Electronics,Pulse,"Upgrade your lifestyle with this High-Performance Headphones, a favorite in Electronics.",36864.67
+138,Everest Wireless Camera,Electronics,Everest,"Experience the best Camera in the Electronics category, built to be Wireless.",14315.67
+139,Urban Smart Winter Coat,Fashion,Urban,A Smart Winter Coat designed for everyday use with excellent build quality.,2939.98
+140,Solace Wireless Shampoo,Beauty,Solace,"This Wireless Shampoo from Solace combines style, comfort, and performance.",2959.1
+141,Everest Eco-Friendly Football,Sports & Fitness,Everest,"This Eco-Friendly Football from Everest combines style, comfort, and performance.",2454.45
+142,Falcon Lightweight Tablet,Electronics,Falcon,A Lightweight Tablet designed for everyday use with excellent build quality.,32435.87
+143,Vertex Smart Cookware Set,Home & Kitchen,Vertex,A Smart Cookware Set designed for everyday use with excellent build quality.,878.41
+144,Falcon Classic Lipstick,Beauty,Falcon,"Experience the best Lipstick in the Beauty category, built to be Classic.",1198.18
+145,Nimbus Durable Treadmill,Sports & Fitness,Nimbus,A Durable Treadmill designed for everyday use with excellent build quality.,9446.22
+146,Orbit Smart Face Moisturizer,Beauty,Orbit,"This Smart Face Moisturizer from Orbit combines style, comfort, and performance.",2738.56
+147,Solace Classic Hair Dryer,Beauty,Solace,Top-rated Hair Dryer offering Classic performance and long-lasting durability.,2530.61
+148,Kairo Ergonomic Coffee Maker,Home & Kitchen,Kairo,"Upgrade your lifestyle with this Ergonomic Coffee Maker, a favorite in Home & Kitchen.",5865.9
+149,Orbit Lightweight Formal Shirt,Fashion,Orbit,"Upgrade your lifestyle with this Lightweight Formal Shirt, a favorite in Fashion.",4984.25
+150,Kairo Premium History Book,Books,Kairo,A Premium History Book designed for everyday use with excellent build quality.,943.33
